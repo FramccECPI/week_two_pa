@@ -1,0 +1,10 @@
+.rainbow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rainbow img {
+    width: 200px;
+    height: 200px;
+}
